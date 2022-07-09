@@ -1,0 +1,35 @@
+#include<stdio.h>
+#define size 5
+
+int main(){
+    int array1[size]={20,50,70,109,30};
+    int array2[size]={10,20,30,40,50};
+    int array3[size]={0};
+
+    for(int i=0;i<size;i++){
+        int sum1=array1[i];
+        int sum2=array2[i];
+
+
+
+    }
+    for(int i=0;i<size;i++){
+        array3[i];
+        int sum3=array3[i];
+        sum3=array1[i]+array2[i];
+        printf("this is sum3 %d's %d\n",i,sum3);
+
+
+
+
+
+    }
+
+
+    return 0;
+}
+
+
+
+
+
